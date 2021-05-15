@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=OE Pin=U2-12
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U2-13
+Removed Pin From Net: NetName=LATCH Pin=U2-14
+Removed Pin From Net: NetName=SPI1_CLK Pin=U2-15
+Removed Pin From Net: NetName=B Pin=U2-16
+Removed Pin From Net: NetName=A Pin=U2-17
+Added Pin To Net: NetName=SPI1_MOSI Pin=U2-11
+Added Pin To Net: NetName=LATCH Pin=U2-12
+Added Pin To Net: NetName=SPI1_CLK Pin=U2-13
+Added Pin To Net: NetName=B Pin=U2-14
+Added Pin To Net: NetName=A Pin=U2-15
+Added Pin To Net: NetName=OE Pin=U2-16
+Added Member To Class: ClassName=SCH_Clock_Iot Member=Component JP1 SWDIO
